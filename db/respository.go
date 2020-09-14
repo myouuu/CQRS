@@ -7,7 +7,7 @@ import (
 
 type Repository interface {
 	Close()
-	InsertMeow(ctx context.Context, meow schema.CQRS) error
+	InsertMeow(ctx context.Context, CQRS schema.CQRS) error
 	ListMeows(ctx context.Context, skip uint64, take uint64) ([]schema.CQRS, error)
 }
 

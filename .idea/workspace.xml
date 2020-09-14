@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7359fe3c-d415-4f96-9ab3-270dba9fa90f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/db/respository.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schema/model.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/util.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/db.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/respository.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/respository.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,5 +77,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="629" y="259" width="480" height="576" key="#Build_Tags_&amp;_Vendoring" timestamp="1599827869205">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="629" y="259" width="480" height="576" key="#Build_Tags_&amp;_Vendoring/0.23.1792.1017@0.23.1792.1017" timestamp="1599827869205" />
   </component>
 </project>
